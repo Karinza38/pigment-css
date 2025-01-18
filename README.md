@@ -1,4 +1,4 @@
-<!-- markdownlint-disable-next-line -->
+ <!-- markdownlint-disable-next-line -->
 <p align="center">
   <a href="https://mui.com/blog/introducing-pigment-css/" target="_blank">
     <picture>
